@@ -27,7 +27,7 @@
   ☾ ⋆｡𖦹°‧ ✧ ‧°𖦹｡⋆ ☽
 </p>
 <h2>✧ GitHub Statistics ✧</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=F5F8F4&title_color=648B6B&icon_color=8CAD90&text_color=526653&border_color=8CAD90" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=F5F8F4&title_color=648B6B&text_color=526653&border_color=8CAD90" />
+<img src="https://github-readme-stats.vercel.app/api?username=4l0x&show_icons=true&bg_color=F5F8F4&title_color=648B6B&icon_color=8CAD90&text_color=526653&border_color=8CAD90" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4l0x&layout=compact&bg_color=F5F8F4&title_color=648B6B&text_color=526653&border_color=8CAD90" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8CAD90&height=100&section=footer" />
 </div>
