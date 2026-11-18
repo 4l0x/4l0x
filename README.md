@@ -1,6 +1,8 @@
 <div align="center">
 <!— LOTUS GIF —>
-<img src="lotus.gif" width="100%" />
+<div align="center">
+  <img src="lotus.gif" width="65%" />
+</div>
 <h1>
   ✦ Welcome to my profile ✦
 </h1>
